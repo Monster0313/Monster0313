@@ -33,6 +33,7 @@ I understood that the most important thing is not to be any kind of people, but 
  
  😍 Shiba Inu lover!!
  
+ 
  ## :small_orange_diamond: Get in touch
  
  🌈 Profile website: https://monster0313.me/
