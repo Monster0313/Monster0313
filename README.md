@@ -15,7 +15,7 @@ I understood that the most important thing is not to be any kind of people, but 
  :mortar_board: ｜Keep self-learning. \
  :unlock: ｜Problem solving ability.
  
-##  :large_orange_diamond: Goals of 2020!
+##  :small_orange_diamond: Goals of 2020!
 - [ ] Finish my military service. (Processing)
 - [ ] Get my First full-time job.
 - [ ] Make an order system for parents. (Processing)
@@ -33,7 +33,7 @@ I understood that the most important thing is not to be any kind of people, but 
  
  😍 Shiba Inu lover!!
  
- ## :large_orange_diamond: Get in touch
+ ## :small_orange_diamond: Get in touch
  
  🌈 Profile website: https://monster0313.me/
 
