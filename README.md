@@ -1,4 +1,5 @@
-### Hi there 👋
+## Min Feng in Taiwan #Monster0313
+Hi, I'm Min Feng — a junior front-end developer. :sparkles: Learning programing and front-end tech from 2016. Love open source culture and the friendly community!  :heart_eyes:  I do believe coding can lead a society, a country, even the whole world to a better future. :earth_africa: I was a sociology student, but now I have another sight to see the world, and may the skills can make more people living better!  :heart:
 
 <!--
 **Monster0313/Monster0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
