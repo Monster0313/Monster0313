@@ -16,9 +16,8 @@ I understood that the most important thing is not to be any kind of people, but 
  :unlock: ｜Problem solving ability.
  
 ##  :small_orange_diamond: Goals of 2020!
-- [ ] Finish my military service. (Processing)
-- [ ] Get my First full-time job.
-- [ ] Make an order system for parents. (Processing)
+- [x] Finish my military service. 
+- [x] Get my First full-time job.
 
 ## :small_orange_diamond: In Short
 <p>
