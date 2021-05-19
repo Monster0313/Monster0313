@@ -16,8 +16,8 @@ I understood that the most important thing is not to be any kind of people, but 
  :unlock: ｜Problem solving ability.
  
 ##  :small_orange_diamond: Goals of 2021!
-- [v] Make a deposit of $10,000.
-- [v] Keep the enthusiasm on taking photos. 
+- [x] Make a deposit of $10,000.
+- [x] Keep the enthusiasm on taking photos. 
 
 ## :small_orange_diamond: In Short
 <p>
