@@ -15,9 +15,9 @@ I understood that the most important thing is not to be any kind of people, but 
  :mortar_board: ｜Keep self-learning. \
  :unlock: ｜Problem solving ability.
  
-##  :small_orange_diamond: Goals of 2020!
-- [x] Finish my military service. 
-- [x] Get my First full-time job.
+##  :small_orange_diamond: Goals of 2021!
+- [v] Make a deposit of $10,000.
+- [v] Keep the enthusiasm on taking photos. 
 
 ## :small_orange_diamond: In Short
 <p>
@@ -35,7 +35,7 @@ I understood that the most important thing is not to be any kind of people, but 
  
  ## :small_orange_diamond: Get in touch
  
- 🌈 Profile website: https://monster0313.me/
+ 🌈 Profile website: https://monster0313.me/ (Closed)
 
 <!--
 **Monster0313/Monster0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
