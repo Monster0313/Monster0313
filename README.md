@@ -14,10 +14,6 @@ I understood that the most important thing is not to be any kind of people, but 
  :bulb: ｜Always have new idea. \
  :mortar_board: ｜Keep self-learning. \
  :unlock: ｜Problem solving ability.
- 
-##  :small_orange_diamond: Goals of 2022!
-- [x] Start A New Job.
-- [x] Keep the enthusiasm on taking photos. 
 
 ## :small_orange_diamond: In Short
 <p>
